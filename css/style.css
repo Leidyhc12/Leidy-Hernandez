@@ -8,7 +8,7 @@
 body{
     font-family: 'Be Vietnam Pro', sans-serif;
     width: 100vw;
-    overflow-y: hidden;
+    overflow-x: hidden;
 }
 header{
     display: flex;
